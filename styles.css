@@ -1,0 +1,11 @@
+.centered {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+body {
+    background: #decce3;
+    background: -webkit-linear-gradient(to right, #E9E4F0, #d3ccd3);
+    background: linear-gradient(to right, #E9E4F0, #d3ccd3);
+}
+
