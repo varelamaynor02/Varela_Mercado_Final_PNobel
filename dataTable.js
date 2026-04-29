@@ -79,3 +79,17 @@ boton.addEventListener("click", () => {
     nuevoItem.textContent = "¡Elemento creado!";
     contenedor.appendChild(nuevoItem);
 });
+
+let nombre = "Juan";
+let apellido = "Perez";
+let edad =31;
+let estado = null;
+let tienevehiculo = false;
+let profesion;
+
+console.log("Nombre: " + nombre);
+console.log("Apellido: " + apellido);
+console.log("Edad: " + edad);
+console.log("Estado: " + estado);
+console.log("Tiene vehículo: " + tienevehiculo);
+console.log("Profesión: " + profesion);
